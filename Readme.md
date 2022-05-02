@@ -6,4 +6,4 @@ Saiba mais no link: [willianjusten.com.br](http://willianjusten.com.br)
 
 Gostou do curso? Quer mais? Ajude com uma doação, até um café vale =)
 
-[![Google Link] (https://google.com.br)] https://google.com.br
+![Google Link] (https://google.com.br) 
